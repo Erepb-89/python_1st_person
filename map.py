@@ -4,10 +4,10 @@ text_map = [
     'WWWWWWWWWWWW',
     'WW......W..W',
     'W...WWW....W',
-    'W..WW.W....W',
+    'W...W......W',
     'W.......WW.W',
     'W..WW...W..W',
-    'W.....W....W',
+    'W..W..W....W',
     'WWWWWWWWWWWW'
 ]
 

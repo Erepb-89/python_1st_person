@@ -20,5 +20,3 @@ def ray_casting(sc, player_pos, player_angle):
                 pygame.draw.rect(sc, color, (ray * SCALE, HALF_HEIGHT - proj_height // 2, SCALE, proj_height))
                 break
         cur_angle += DELTA_ANGLE
-
-
